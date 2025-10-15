@@ -83,19 +83,7 @@ SiteDaTela/
 ├── img/
 │ ├── icon.png ← logo da navbar
 │ ├── banner.jpg ← imagem principal (home)
-│ ├── sobre1.png
-│ ├── sobre2.png
-│ ├── sobre3.png
-│ ├── servico1.png
-│ ├── servico2.png
-│ ├── servico3.png
-│ ├── cliente1.jpg
-│ ├── cliente2.jpg
-│ └── cliente3.jpg
 │
-├── assets/
-│ ├── favicon.ico ← ícone do site (opcional)
-│ └── fonts/ ← fontes locais (se houver)
 │
 └── README.md ← documentação do projeto
 </pre>
